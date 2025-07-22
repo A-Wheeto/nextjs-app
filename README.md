@@ -1,5 +1,35 @@
-## Next.js App Router Course - Starter
+# Next.js Dashboard App
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This project is a **feature-rich dashboard application** built with [Next.js](https://nextjs.org/) as part of the official [Next.js Learn course](https://nextjs.org/learn/dashboard-app).
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+It demonstrates key concepts of modern full-stack development, including:
+
+- ✅ File-based routing (App Router)
+- 🗃️ Dynamic API routes
+- 🔒 Authentication (via middleware)
+- ⚡ Server actions
+- 🗂️ PostgreSQL + Prisma ORM
+- 💅 Tailwind CSS for styling
+- 🌍 Deployment-ready with Vercel
+
+## ✨ Features
+
+- User authentication and session management
+- Dynamic dashboards for different users
+- CRUD operations for invoices
+- Responsive UI with Tailwind CSS
+- Clean code structure and modular design
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- PostgreSQL database (local or remote)
+- [Vercel CLI (optional)](https://vercel.com/docs/cli)
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
